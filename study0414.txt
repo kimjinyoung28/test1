@@ -13,5 +13,3 @@ git checkout 브랜치명 ##해당 브랜치로 이동
 git add . ##위와 동일
 git commit -m "first commit" ##위와 동일
 git push origin 브랜치명 ##깃헙 해당 브랜치로 최종 업로드
-
-
